@@ -30,10 +30,11 @@ header {
     color: #359381;
     pointer-events: none;
     padding: 10px 0px;
-    margin-right: 35%;
+    margin-right: 250px;
 }
 
 .navigation a {
+    text-align: center;
     text-decoration: none;
     color: #359381;
     padding: 6px 15px;
