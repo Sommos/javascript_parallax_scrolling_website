@@ -1,7 +1,7 @@
 # Javascript Parallax Scrolling Website
 
 <p align="center">
-    <img src="img/website_image_0.png" width="1030" />
+    <img src="assets/website_image_0.png" width="1030" />
 </p>
 
 This program is to test a javascript parallax scroll effect.
